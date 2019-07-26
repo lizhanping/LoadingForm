@@ -1,0 +1,10 @@
+D:\CsharpTestFolder\LoadingForm\LoadingForm.Test\bin\Debug\LoadingForm.Test.exe
+D:\CsharpTestFolder\LoadingForm\LoadingForm.Test\bin\Debug\LoadingForm.Test.pdb
+D:\CsharpTestFolder\LoadingForm\LoadingForm.Test\bin\Debug\LoadingForm.dll
+D:\CsharpTestFolder\LoadingForm\LoadingForm.Test\bin\Debug\LoadingForm.pdb
+D:\CsharpTestFolder\LoadingForm\LoadingForm.Test\obj\Debug\LoadingForm.Test.csprojResolveAssemblyReference.cache
+D:\CsharpTestFolder\LoadingForm\LoadingForm.Test\obj\Debug\LoadingForm.Test.MainForm.resources
+D:\CsharpTestFolder\LoadingForm\LoadingForm.Test\obj\Debug\LoadingForm.Test.Properties.Resources.resources
+D:\CsharpTestFolder\LoadingForm\LoadingForm.Test\obj\Debug\LoadingForm.Test.csproj.GenerateResource.Cache
+D:\CsharpTestFolder\LoadingForm\LoadingForm.Test\obj\Debug\LoadingForm.Test.exe
+D:\CsharpTestFolder\LoadingForm\LoadingForm.Test\obj\Debug\LoadingForm.Test.pdb
